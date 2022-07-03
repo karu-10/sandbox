@@ -4,7 +4,7 @@ export default function App() {
   const list = [1, 2, 3, 4, 5];
   const object = [
     {
-      name: "tarou",
+      name: "saito",
       age: 23
     },
     {
